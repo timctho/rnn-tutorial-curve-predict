@@ -1,1 +1,1 @@
-# RNN Hello World- Curve Predictor
+# RNN Tutorial- Curve Predictor
